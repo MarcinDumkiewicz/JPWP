@@ -14,7 +14,7 @@ public class GeneratingEquation{
     public int secondNumber;
     /** Miejsce luki 1 - pierwsza liczba jest luka, 2 - druga liczba jest luka, 3 - wynik jest luka */
     public int emptyPlace;
-    /** Rodzaj operacji 1-dodawanie 2-odejmowanie 3- mnozenie 4-dzielenie */
+    /** Rodzaj operacji 1.dodawanie 2.odejmowanie 3. mnozenie 4.dzielenie */
     public char operation;
     /** Wynik */
     public int result;
